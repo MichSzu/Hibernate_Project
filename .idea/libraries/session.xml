@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="session">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../baza/session.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
